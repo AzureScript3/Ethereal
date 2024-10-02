@@ -1,4 +1,3 @@
--- better x scripts universal stealer 
 -- supported games: mm2, adopt me
 
 -- adopt me
